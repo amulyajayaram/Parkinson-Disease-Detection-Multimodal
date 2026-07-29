@@ -209,10 +209,3 @@ This project is licensed under the MIT License.
 
 ---
 
-## Author
-
-**Amulya J**
-
-M.Tech, Computer Science and Engineering
-
-REVA University, Bengaluru
